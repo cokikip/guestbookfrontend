@@ -1,0 +1,24 @@
+{
+  "visitors": [
+    {
+      "id": 1,
+      "firstName": "json-server",
+      "lastName": "typicode",
+      "phoneNumber": "typicode",
+      "personToVisit": "typicode",
+      "reasonToVisit": "typicode",
+      "visitDateTime": "1",
+      "checkOutDateTime": "checkOutDateTime"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
