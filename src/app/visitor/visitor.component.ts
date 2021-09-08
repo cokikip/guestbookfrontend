@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { VisitorService } from './visitor.service';
+import { VisitorService } from '../visitor.service';
 
 @Component({
   selector: 'app-visitor',
